@@ -1,6 +1,6 @@
 # https://yadi.sk/d/bhwJI7M03JFmij - картинки к игре
 # https://yadi.sk/i/cwbB1zai3JdmDC - начало игры
-
+# Работа класса
 # Подключение модулей
 import os, tkinter, random
 from PIL import Image, ImageTk
